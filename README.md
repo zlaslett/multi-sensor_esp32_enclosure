@@ -8,7 +8,7 @@
 <img src="wired_up_sensor.jpg" width="300">
 
 ## Commands
-- help / h      Show this menu
+- help / h    Show this menu
 - start / s     Start logging
 - stop  / x     Stop logging
 - press / p     Open valve (spray)

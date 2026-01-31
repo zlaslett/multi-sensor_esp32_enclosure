@@ -8,6 +8,7 @@
 <img src="wired_up_sensor.jpg" width="300">
 
 ## Commands
+- help / h      Show this menu
 - start / s     Start logging
 - stop  / x     Stop logging
 - press / p     Open valve (spray)
@@ -18,6 +19,10 @@
 - read          Single sensor reading
 - servo         Test servo movement
 - setpress 45   Test servo angle
+- status        Show storage status
+- files / ls    List saved files
+- dump          Output RAM buffer
+- download      Output SPIFFS lofg
 
 ## Example Output
 

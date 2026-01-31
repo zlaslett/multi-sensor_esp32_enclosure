@@ -20,6 +20,7 @@
   setpress 45   Test servo angle
 
 ## Example Output
+
 === SENSOR READING ===
 Mass:        -74.92 g
 Nozzle temp: 67.6 F
@@ -29,5 +30,3 @@ Humidity:    35.3 %
 Pressure:    935.0 hPa
 Accel:       1.054
 Mic RMS:     713
-======================
-
